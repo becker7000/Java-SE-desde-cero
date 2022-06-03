@@ -1,4 +1,3 @@
-import java.sql.SQLType;
 import java.util.Scanner;
 
 public class Switch {
