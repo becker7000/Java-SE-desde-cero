@@ -1,0 +1,15 @@
+Hola a todos
+desde un archivo
+creado con Java...
+jaja
+xD
+fin del curso...(el básico)
+cuantos hay?
+como 7... o más...
+2a) GUI Swing interfaces graficas de escrito
+2b) JavaFX
+3) Conexion a bases de datos
+4) Aplicaciones web con JSP, Servlets y JSF
+5) Android
+6) Kotlin
+7) Spring boot
